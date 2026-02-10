@@ -20,11 +20,11 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Test  | 5  | ✓  | x  | x  | x  | x  | x  | Empty  | Empty  |
 | Generic V5.0 | 5  | ✓  | x  | x  | x  | x  | x  | VID_0A12 PID_0001  | CSR Chip  |
 | Realtek RTL8852AE  | 5.2  | ✓  | ✓  | ✓  | Not tested  | ✓  |  Not tested | Empty| Empty  |
-| Realtek RTL8852BE  | 5.3  | ✓  | ✓  | ✓  | Not tested  | ✓  | ✓  | Empty| Empty  |
+| Realtek RTL8852BE  | 5.3  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | Sometimes doesnt like 4 wiimotes| Empty  |
 | Realtek RTL8852CE  | 5.3  | ✓  | ✓  | ✓  | Not tested  | ✓  |  Not tested | Empty| Empty  |
 | Mediatek MT7922  | 5.2  | ✓  | ✓ | ✓ | ✓  | ✓ | x  | Need resync on every connect  | Empty  |
 | Mediatek MT7925  | 5.3  | ✓  | ✓ | ✓ | ✓  | ✓ | x  | Need resync on every connect  | Empty  |
-| ASUS BT500  | 5  | ✓  | ✓  | ✓  | Not tested  | ✓  | Need resync on every connect  | Empty  | Realtek Chip  |
+| ASUS BT500  | 5  | ✓  | ✓  | ✓  | Not tested  | ✓  | Not tested  | Empty  | Realtek Chip  |
 | TPLINK UB400  | 4  | ✓  | ✓  | ✓  | Not tested  | ✓ | ✓ | Empty  | CSR Chip  |
 | TPLINK UB400 v1.1 | 4  | ✓  | ✓  | ✓  | Not tested  | ✓  | ✓ | Empty  | Realtek Chip  |
 | TPLINK UB500  | 5  | ✓  | ✓  | ✓  | ✓ | ✓  | x | Need resync on every connect| Realtek Chip  |
