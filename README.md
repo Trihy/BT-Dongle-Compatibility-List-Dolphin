@@ -14,9 +14,9 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Intel AX211  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  |
 | Intel AX411  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  |
 | Intel Killer AX1650  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  |  | Empty  | Empty  |
-| Intel BE200  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | x  | Empty  | Empty  |
-| Intel BE201  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | x  | Empty  | Empty  |
-| Intel BE202  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | x  | Empty  | Empty  |
+| Intel BE200  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  |
+| Intel BE201  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  |
+| Intel BE202  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  |
 | Test  | 5  | ✓  | x  | x  | x  | x  | x  | Empty  | Empty  |
 | Generic V5.0 | 5  | ✓  | x  | x  | x  | x  | x  | VID_0A12 PID_0001  | CSR Chip  |
 | Realtek RTL8852AE  | 5.2  | ✓  | ✓  | ✓  | Not tested  | ✓  |  Not tested | Empty| Empty  |
@@ -28,7 +28,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | TPLINK UB400  | 4  | ✓  | ✓  | ✓  | Not tested  | ✓ | ✓ | Empty  | CSR Chip  |
 | TPLINK UB400 v1.1 | 4  | ✓  | ✓  | ✓  | Not tested  | ✓  | ✓ | Empty  | Realtek Chip  |
 | TPLINK UB500  | 5  | ✓  | ✓  | ✓  | ✓ | ✓  | x | Need resync on every connect| Realtek Chip  |
-| TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | x  | Need resync on every connect  | | Realtek Chip  |
+| TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | ✓ | x  | Need resync on every connect | Realtek Chip  |
 
 For UB500 there is a beta driver with reconnect fixed.
 
