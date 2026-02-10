@@ -3,7 +3,7 @@ BT Dongle Compatibility List Dolphin BT Emulated Mode
 
 **Testing List For BT dongles, both built in and external. For use with Dolphin BT emulated mode.
 
-Most BT dongles are compatible, but also most has some kind of limitation when comes to multiple controllers at the same time, speaker audio or reconnect.
+Most BT dongles are compatible, but also most has some kind of limitation when comes to multiple wiimotes at the same time, speaker audio or reconnect.
 
 
 | Dongle Model  | BT Version | One Wiimote  | Two Wiimotes | Three Wiimotes  | Four Wiimotes | Speaker Sound  | Reconnect with any button press | Comment  | Comment |
@@ -24,8 +24,8 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Realtek RTL8852CE  | 5.3  | ✓  | ✓  | ✓  | Not tested  | ✓  |   | Empty| Empty  |
 | Mediatek MT7922  | 5.2  | ✓  | ✓ | ✓ | ✓  | ✓ | x  | Need resync on every connect  | Empty  |
 | Mediatek MT7925  | 5.3  | ✓  | ✓ | ✓ | ✓  | ✓ | x  | Need resync on every connect  | Empty  |
-| ASUS BT500  | 5  | ✓  | ✓  | Not tested  | Not tested  | x  | x  | Empty  | Realtek Chip  |
+| ASUS BT500  | 5  | ✓  | ✓  | ✓  | Not tested  | ✓  | Need resync on every connect  | Empty  | Realtek Chip  |
 | TPLINK UB400  | 4  | ✓  | ✓  | ✓  | Not tested  |  |  | Empty  | CSR Chip  |
-| TPLINK UB400 v1.1 | 4  | ✓  | ✓  | Not tested  | Not tested  | Not Tested  |   | Empty  | Realtek Chip  |
-| TPLINK UB500  | 5  | ✓  | ✓  | ✓  | ✓ | ✓  | ✓ | VID_2357 PID_0604| Realtek Chip  |
-| TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | ✓  | ✓  | | Realtek Chip  |
+| TPLINK UB400 v1.1 | 4  | ✓  | ✓  | ✓  | Not tested  | ✓  | ✓ | Empty  | Realtek Chip  |
+| TPLINK UB500  | 5  | ✓  | ✓  | ✓  | ✓ | ✓  | x | Need resync on every connect| Realtek Chip  |
+| TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | x  | Need resync on every connect  | | Realtek Chip  |
