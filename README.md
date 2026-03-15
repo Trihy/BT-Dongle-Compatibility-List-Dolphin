@@ -9,7 +9,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Dongle Model  | BT Version | One Wiimote  | Two Wiimotes | Three Wiimotes  | Four Wiimotes | Speaker Sound  | Reconnect with any button press | Comment  | Comment |
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Intel AX200  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  |
-| Intel AX201  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | 2 controllers sometimes work for some time  | Empty  |
+| Intel AX201  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | 2 controllers sometimes work for some time  | IR lag on some games if speaker audio is enabled  |
 | Intel AX210  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  |
 | Intel AX211  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  |
 | Intel AX411  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  |
