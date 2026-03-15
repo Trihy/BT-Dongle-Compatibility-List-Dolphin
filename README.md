@@ -19,7 +19,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Intel BE202  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  |
 | Test  | 5  | ✓  | x  | x  | x  | x  | x  | Empty  | Empty  |
 | Generic V5.0 | 5  | ✓  | x  | x  | x  | x  | x  | VID_0A12 PID_0001  | CSR Chip  |
-| Realtek RTL8852AE  | 5.2  | ✓  | ✓  | ✓  | Not tested  | ✓  |  Not tested | Empty| Empty  |
+| Realtek RTL8922AE  | 5.2  | ✓  | ✓  | ✓  | Not tested  | ✓  |  Not tested | Empty| Empty  |
 | Realtek RTL8852BE  | 5.3  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | Sometimes doesnt like 4 wiimotes| Empty  |
 | Realtek RTL8852CE  | 5.3  | ✓  | ✓  | ✓  | Not tested  | ✓  |  ✓ | Empty| Empty  |
 | Mediatek MT7922  | 5.2  | ✓  | ✓ | ✓ | ✓  | ✓ | x  | Need resync on every connect  | Empty  |
