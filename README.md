@@ -26,7 +26,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Mediatek MT7925  | 5.3  | ✓  | ✓ | ✓ | ✓  | ✓ | x  | Need resync on every connect  | Empty  |
 | ASUS BT500  | 5  | ✓  | ✓  | ✓  | Not tested  | ✓  | Not tested  | Empty  | Realtek Chip  |
 | TPLINK UB400  | 4  | ✓  | ✓  | ✓  | Not tested  | ✓ | ✓ | Empty  | CSR Chip  |
-| TPLINK UB400 v1.1 | 4  | ✓  | ✓  | ✓  | Not tested  | ✓  | ✓ | Empty  | Realtek Chip  |
+| TPLINK UB400 v1.1 | 4  | ✓  | ✓  | ✓  | Not tested  | ✓  | Not tested | Empty  | Realtek Chip  |
 | TPLINK UB500  | 5  | ✓  | ✓  | ✓  | ✓ | ✓  | x | Need resync on every connect| Realtek Chip  |
 | TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | ✓ | x  | Need resync on every connect | Realtek Chip  |
 
