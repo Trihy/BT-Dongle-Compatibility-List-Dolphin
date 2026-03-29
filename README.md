@@ -7,7 +7,7 @@ For Passthrough mode, only supported/not supported data.
 
 Most BT dongles are compatible, but also most has some kind of limitation when comes to multiple wiimotes at the same time, speaker audio or reconnect.
 
-| Dongle Model  | BT Version | One Wiimote  | Two Wiimotes | Three Wiimotes  | Four Wiimotes | Speaker Sound  | Reconnect with any button press | Comment  | Comment | Passtrhoug Support |
+| Dongle Model  | BT Version | One Wiimote  | Two Wiimotes | Three Wiimotes  | Four Wiimotes | Speaker Sound  | Reconnect with any button press | Comment  | Comment | Passtrhough Support |
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Intel AX200  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  | Empty |
 | Intel AX201  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | 2 controllers sometimes work for some time  | IR lag on some games if speaker audio is enabled  | Empty |
