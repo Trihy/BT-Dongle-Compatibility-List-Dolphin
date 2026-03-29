@@ -32,3 +32,5 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | ✓ | x  | Need resync on every connect | Realtek Chip  | ✓ |
 
 For UB500 there is a beta driver with reconnect fixed.
+
+For intel cards try to use newest driver. Multiple controller support was improved.
