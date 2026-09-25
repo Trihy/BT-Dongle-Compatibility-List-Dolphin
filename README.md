@@ -15,9 +15,9 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Intel AX211  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  | Empty |
 | Intel AX411  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  | ✓ | Empty  | Empty  | Empty |
 | Intel Killer AX1650  | 5  | ✓  | x  | x  | x  | Only on nonTR. TR no sound  |  | Empty  | Empty  | Empty |
-| Intel BE200  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  | Empty |
-| Intel BE201  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  | Empty |
-| Intel BE202  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  | Empty |
+| Intel BE200  | 5.4  | ✓  | ✓  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  | Empty |
+| Intel BE201  | 5.4  | ✓  | ✓  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  | Empty |
+| Intel BE202  | 5.4  | ✓  | ✓  | Not Tested  | Not tested  | Not Tested  | Not tested  | Empty  | Empty  | Empty |
 | Test  | 5  | ✓  | x  | x  | x  | x  | x  | Empty  | Empty  | Empty |
 | Generic V5.0 | 5  | ✓  | x  | x  | x  | x  | x  | VID_0A12 PID_0001  | CSR Chip  | ✓  |
 | Realtek RTL8922AE  | 5.4  | ✓  | ✓  | ✓  | Not tested  | Only on nonTR. TR no sound |  ✓ | Empty| Empty  | Empty |
