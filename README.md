@@ -1,5 +1,5 @@
 # BT-Dongle-Compatibility-List-Dolphin
-BT Dongle Compatibility List Dolphin BT Emulated Mode.
+BT Dongle Compatibility List Dolphin BT Emulated Mode on Windows 10 / 11
 
 For Passthrough mode, only supported/not supported data.
 
